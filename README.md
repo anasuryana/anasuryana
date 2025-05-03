@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,php,laravel,mysql,postgres,ts,react)](https://skillicons.dev)
 
 ### Connect with me
-![https://www.linkedin.com/in/ana-suryana](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-suryana)
