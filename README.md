@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,php,laravel,mysql,postgres,ts,react)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,php,laravel,mysql,postgres,ts,react,redis)
 
 ### Connect with me
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-suryana)
