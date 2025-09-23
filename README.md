@@ -4,9 +4,7 @@
 - 🌱 I’m currently learning golang
 
 
-### My Github Stats
 
-![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasuryana&show_icons=true&theme=holi)
 
 
 <!--
